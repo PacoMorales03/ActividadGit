@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    background-color: rgba(149, 48, 48, 0.676);
+}
+body{
+    background:  linear-gradient(to right, rgb(71, 173, 79), rgb(223, 255, 186));
+}
+
+h2{
+    font-family: Verdana;
+}
+form{
+    width:max-content;
+    text-align: center;
+}
+
+input[required]{
+    background-color: red;
+}
